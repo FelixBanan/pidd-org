@@ -1,0 +1,521 @@
+{
+    "links": [
+        {
+            "id": 1,
+            "title": "PIDD.ORG - Канал",
+            "desc": "Канал сайта PIDD.ORG, навигатор по ссылкам и новости",
+            "icon": "bi-telegram",
+            "url": "https://t.me/piddorg",
+            "category": "contact",
+            "pinned": true,
+            "badges": [
+                "primary",
+                "community"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "PIDD.ORG - Тест VPS",
+            "desc": "Протестировать VPS на базе Remnawave и хостингов побывавших на обзоре PIDD.ORG",
+            "icon": "bi-telegram",
+            "url": "https://t.me/piddorgbot",
+            "category": "contact",
+            "pinned": true,
+            "badges": [
+                "primary",
+                "bot"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Remnawave | GitHub",
+            "desc": "Мощный инструмент управления прокси-серверами, созданный на основе Xray-core, с упором на простоту и удобство использования.",
+            "icon": "bi-github",
+            "url": "https://github.com/remnawave",
+            "category": "git",
+            "pinned": true,
+            "badges": [
+                "development",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Протокол",
+            "desc": "Полезные ссылки для новичков и не только. Топик с тестами VPS и обсуждение хостеров.",
+            "icon": "bi-telegram",
+            "url": "https://t.me/protocol_vpn",
+            "category": "contact",
+            "pinned": false,
+            "badges": [
+                "community",
+                "proxy",
+                "hosting"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Remnawave | Сообщество",
+            "desc": "Сообщество панели управления Remnawave.",
+            "icon": "bi-telegram",
+            "url": "https://t.me/remnawave",
+            "category": "contact",
+            "pinned": false,
+            "badges": [
+                "community",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "ITDog",
+            "desc": "Сообщество со сборником всего и вся.",
+            "icon": "bi-telegram",
+            "url": "https://t.me/itdoginfo",
+            "category": "contact",
+            "pinned": false,
+            "badges": [
+                "community",
+                "proxy",
+                "networks",
+                "hosting"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Хостер обзор | Группа",
+            "desc": "Группа обзора хостеров, более строгие тесты VPS от сообщества.",
+            "icon": "bi-telegram",
+            "url": "https://t.me/hosterobzorgroup",
+            "category": "contact",
+            "pinned": false,
+            "badges": [
+                "community",
+                "hosting"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Xray-core (RU)",
+            "desc": "Русскоязычная документация по Xray-core с улучшениями XTLS",
+            "icon": "<svg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M12 2L2 7L12 12L22 7L12 2Z' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/><path d='M2 17L12 22L22 17' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/><path d='M2 12L12 17L22 12' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+            "url": "https://xtls.github.io/ru/",
+            "category": "wiki",
+            "pinned": false,
+            "badges": [
+                "xray"
+            ]
+        },
+        {
+            "id": 100,
+            "title": "Remnawave Telegram Shop | by Machka",
+            "desc": "Telegram-бот для продажи подписок с интеграцией Remnawave API и поддержкой платежных систем",
+            "icon": "bi-github",
+            "url": "https://github.com/machka-pasla/remnawave-tg-shop",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "telegram",
+                "bot",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 101,
+            "title": "Remnawave Reverse Proxy",
+            "desc": "Автоматизация настройки NGINX + Remnawave",
+            "icon": "bi-github",
+            "url": "https://github.com/eGamesAPI/remnawave-reverse-proxy",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "nginx",
+                "xray",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 102,
+            "title": "Xray Checker",
+            "desc": "Мониторинг доступности прокси-серверов с поддержкой Prometheus и различных протоколов",
+            "icon": "bi-github",
+            "url": "https://github.com/kutovoys/xray-checker",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "monitoring",
+                "xray",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 103,
+            "title": "Remnawave Scripts",
+            "desc": "Enterprise-скрипты для управления Remnawave Panel, RemnaNode и Reality",
+            "icon": "bi-github",
+            "url": "https://github.com/DigneZzZ/remnawave-scripts",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "bash",
+                "automation",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 104,
+            "title": "Remnawave Telegram Mini App",
+            "desc": "Mini App для Telegram для управления подписками Remnawave через Telegram ID",
+            "icon": "bi-github",
+            "url": "https://github.com/maposia/remnawave-telegram-sub-mini-app",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "telegram",
+                "miniapp",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 105,
+            "title": "Remna Ansible Playbook",
+            "desc": "Плейбук для развертывания и поддержки проекта remna.st",
+            "icon": "bi-github",
+            "url": "https://github.com/iphizic/remna-playbook",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "ansible",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 106,
+            "title": "Remnawave Telegram Shop | by Jolymmiels",
+            "desc": "Telegram бот для продажи подписок с мульти-платежными системами",
+            "icon": "bi-github",
+            "url": "https://github.com/Jolymmiels/remnawave-telegram-shop",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "telegram",
+                "bot",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 107,
+            "title": "RemnaSetup",
+            "desc": "Универсальный скрипт для установки и обновления инфраструктуры Remnawave",
+            "icon": "bi-github",
+            "url": "https://github.com/Capybara-z/RemnaSetup",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "bash",
+                "automation",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 108,
+            "title": "Remnawave Backup",
+            "desc": "Автоматизация резервного копирования и восстановления БД",
+            "icon": "bi-github",
+            "url": "https://github.com/distillium/remnawave-backup-restore",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "backup",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 109,
+            "title": "WARP Native",
+            "desc": "Установка Cloudflare WARP через WireGuard интерфейс",
+            "icon": "bi-github",
+            "url": "https://github.com/distillium/warp-native",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "cloudflare",
+                "wireguard"
+            ]
+        },
+        {
+            "id": 110,
+            "title": "Custom MOTD",
+            "desc": "Расширенное приветственное сообщение для серверов Debian/Ubuntu",
+            "icon": "bi-github",
+            "url": "https://github.com/distillium/motd",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "linux"
+            ]
+        },
+        {
+            "id": 111,
+            "title": "eGames Wiki",
+            "desc": "Wiki от eGames по Remnawave Reverse Proxy",
+            "icon": "bi-journal-text",
+            "url": "https://wiki.egam.es/",
+            "category": "wiki",
+            "pinned": false,
+            "badges": [
+                "wiki",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 112,
+            "title": "Remnawave Reverse | Сообщество",
+            "desc": "Сообщество eGames Remnwave Reverse proxy",
+            "icon": "bi-telegram",
+            "url": "https://t.me/remnawave_reverse",
+            "category": "contact",
+            "pinned": false,
+            "badges": [
+                "community",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 113,
+            "title": "Xray Torrent Blocker",
+            "desc": "Блокировка торрент-трафика для Xray панелей с вебхуками",
+            "icon": "bi-github",
+            "url": "https://github.com/kutovoys/xray-torrent-blocker",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "security",
+                "xray"
+            ]
+        },
+        {
+            "id": 114,
+            "title": "Remnawave Documentation",
+            "desc": "Официальная документация по Remnawave",
+            "icon": "bi-journal-text",
+            "url": "https://remna.st/docs/overview/introduction/",
+            "category": "wiki",
+            "pinned": false,
+            "badges": [
+                "wiki",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 115,
+            "title": "Xray Core Community",
+            "desc": "Практические решения по Xray, Remnawave и VPN технологиям",
+            "icon": "<svg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M12 2L2 7L12 12L22 7L12 2Z' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/><path d='M2 17L12 22L22 17' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/><path d='M2 12L12 17L22 12' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+            "url": "https://xraycore.org/",
+            "category": "wiki",
+            "pinned": false,
+            "badges": [
+                "wiki",
+                "xray"
+            ]
+        },
+        {
+            "id": 116,
+            "title": "Kener Status Page",
+            "desc": "Продвинутый Status page для мониторинга сервисов",
+            "icon": "bi-speedometer2",
+            "url": "https://kener.ing/",
+            "category": "monitoring",
+            "pinned": false,
+            "badges": [
+                "monitoring"
+            ]
+        },
+        {
+            "id": 117,
+            "title": "Beszel Monitoring",
+            "desc": "Легковесный мониторинг Docker контейнеров",
+            "icon": "bi-heart-pulse",
+            "url": "https://beszel.dev/",
+            "category": "monitoring",
+            "pinned": false,
+            "badges": [
+                "monitoring"
+            ]
+        },
+        {
+            "id": 118,
+            "title": "FlClashX",
+            "desc": "Многоплатформенный прокси-клиент на основе ClashMeta",
+            "icon": "bi-github",
+            "url": "https://github.com/pluralplay/FlClashX",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "clash",
+                "proxy"
+            ]
+        },
+        {
+            "id": 119,
+            "title": "Material Remnawave",
+            "desc": "Страница подписок в стиле Material Design 3",
+            "icon": "bi-github",
+            "url": "https://github.com/legiz-ru/material-remnawave-subscription-page",
+            "category": "git",
+            "pinned": false,
+            "badges": [
+                "materialdesign",
+                "remnawave"
+            ]
+        },
+        {
+            "id": 120,
+            "title": "Самохостинг | Канал",
+            "desc": "О домашних серверах и самохостинге",
+            "icon": "bi-telegram",
+            "url": "https://t.me/samohosting",
+            "category": "contact",
+            "pinned": false,
+            "badges": [
+                "community"
+            ]
+        },
+        {
+            "id": 121,
+            "title": "Xpenology Russian",
+            "desc": "Поддержка Xpenology DSM",
+            "icon": "bi-telegram",
+            "url": "https://t.me/xpenology_russian",
+            "category": "contact",
+            "pinned": false,
+            "badges": [
+                "community"
+            ]
+        },
+        {
+            "id": 122,
+            "title": "TrueNAS RU",
+            "desc": "Ресурс по операционной системе TrueNAS",
+            "icon": "bi-telegram",
+            "url": "https://t.me/TrueNAS_ru",
+            "category": "contact",
+            "pinned": false,
+            "badges": [
+                "community"
+            ]
+        }
+    ],
+    "presetBadges": {
+        "wiki": {
+            "text": "Wiki",
+            "color": "#2196f3"
+        },
+        "primary": {
+            "text": "Основной",
+            "color": "#f59e0b"
+        },
+        "community": {
+            "text": "Сообщество",
+            "color": "#5964ff"
+        },
+        "bot": {
+            "text": "Бот",
+            "color": "#5964ff"
+        },
+        "development": {
+            "text": "Разработка",
+            "color": "#4338ca"
+        },
+        "remnawave": {
+            "text": "Remnawave",
+            "color": "#3bc9db"
+        },
+        "proxy": {
+            "text": "Прокси",
+            "color": "#218bff"
+        },
+        "hosting": {
+            "text": "Хостинги",
+            "color": "#94d82d"
+        },
+        "networks": {
+            "text": "Сети",
+            "color": "#12b886"
+        },
+        "telegram": {
+            "text": "Telegram",
+            "color": "#0088cc"
+        },
+        "nginx": {
+            "text": "NGINX",
+            "color": "#269539"
+        },
+        "xray": {
+            "text": "Xray",
+            "color": "#3a86ff"
+        },
+        "monitoring": {
+            "text": "Мониторинг",
+            "color": "#d6336c"
+        },
+        "bash": {
+            "text": "Bash",
+            "color": "#4eaa25"
+        },
+        "automation": {
+            "text": "Automation",
+            "color": "#ff9800"
+        },
+        "miniapp": {
+            "text": "Mini App",
+            "color": "#8e44ad"
+        },
+        "ansible": {
+            "text": "Ansible",
+            "color": "#e00"
+        },
+        "backup": {
+            "text": "Backup",
+            "color": "#ff6b6b"
+        },
+        "cloudflare": {
+            "text": "Cloudflare",
+            "color": "#f38020"
+        },
+        "wireguard": {
+            "text": "WireGuard",
+            "color": "#88171a"
+        },
+        "linux": {
+            "text": "Linux",
+            "color": "#fcc624"
+        },
+        "security": {
+            "text": "Security",
+            "color": "#ff5252"
+        },
+        "clash": {
+            "text": "Clash",
+            "color": "#3871c1"
+        },
+        "materialdesign": {
+            "text": "Material Design",
+            "color": "#757ce8"
+        }
+    },
+    "categoryNames": {
+        "wiki": "Wiki",
+        "git": "GitHub",
+        "contact": "Сообщества",
+        "monitoring": "Мониторинг"
+    },
+    "categoryColors": {
+        "contact": "#f59e0b",
+        "git": "#6f42c1",
+        "wiki": "#0ea5e9",
+        "all": "var(--brand)",
+        "monitoring": "#d6336c"
+    }
+}
