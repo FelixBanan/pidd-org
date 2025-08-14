@@ -1,4 +1,5 @@
 # PIDD.ORG — Полезные ссылки и сообщества
+<p align="center">🌐 <a href="https://pidd.org"><b>Перейти на сайт</b></a></p>
 
 <p align="center">
   <img src="https://i.imgur.com/wGNjyeV.png" alt="Описание" />
