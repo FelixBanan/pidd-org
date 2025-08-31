@@ -32,7 +32,7 @@
             "desc": "Мощный инструмент управления прокси-серверами, созданный на основе Xray-core, с упором на простоту и удобство использования.",
             "icon": "bi-github",
             "url": "https://github.com/remnawave",
-            "category": "git",
+            "category": "remnawave",
             "pinned": true,
             "badges": [
                 "development",
@@ -59,7 +59,7 @@
             "desc": "Сообщество панели управления Remnawave.",
             "icon": "bi-telegram",
             "url": "https://t.me/remnawave",
-            "category": "contact",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "community",
@@ -112,7 +112,7 @@
             "desc": "Telegram-бот для продажи подписок с интеграцией Remnawave API и поддержкой платежных систем",
             "icon": "bi-github",
             "url": "https://github.com/machka-pasla/remnawave-tg-shop",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "telegram",
@@ -126,7 +126,7 @@
             "desc": "Автоматизация настройки NGINX + Remnawave",
             "icon": "bi-github",
             "url": "https://github.com/eGamesAPI/remnawave-reverse-proxy",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "nginx",
@@ -140,7 +140,7 @@
             "desc": "Мониторинг доступности прокси-серверов с поддержкой Prometheus и различных протоколов",
             "icon": "bi-github",
             "url": "https://github.com/kutovoys/xray-checker",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "monitoring",
@@ -154,7 +154,7 @@
             "desc": "Enterprise-скрипты для управления Remnawave Panel, RemnaNode и Reality",
             "icon": "bi-github",
             "url": "https://github.com/DigneZzZ/remnawave-scripts",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "bash",
@@ -168,7 +168,7 @@
             "desc": "Mini App для Telegram для управления подписками Remnawave через Telegram ID",
             "icon": "bi-github",
             "url": "https://github.com/maposia/remnawave-telegram-sub-mini-app",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "telegram",
@@ -182,7 +182,7 @@
             "desc": "Плейбук для развертывания и поддержки проекта remna.st",
             "icon": "bi-github",
             "url": "https://github.com/iphizic/remna-playbook",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "ansible",
@@ -195,7 +195,7 @@
             "desc": "Telegram бот для продажи подписок с мульти-платежными системами",
             "icon": "bi-github",
             "url": "https://github.com/Jolymmiels/remnawave-telegram-shop",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "telegram",
@@ -209,7 +209,7 @@
             "desc": "Универсальный скрипт для установки и обновления инфраструктуры Remnawave",
             "icon": "bi-github",
             "url": "https://github.com/Capybara-z/RemnaSetup",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "bash",
@@ -223,7 +223,7 @@
             "desc": "Автоматизация резервного копирования и восстановления БД",
             "icon": "bi-github",
             "url": "https://github.com/distillium/remnawave-backup-restore",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "backup",
@@ -261,7 +261,7 @@
             "desc": "Wiki от eGames по Remnawave Reverse Proxy",
             "icon": "bi-journal-text",
             "url": "https://wiki.egam.es/",
-            "category": "wiki",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "wiki",
@@ -274,7 +274,7 @@
             "desc": "Сообщество eGames Remnwave Reverse proxy",
             "icon": "bi-telegram",
             "url": "https://t.me/remnawave_reverse",
-            "category": "contact",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "community",
@@ -300,7 +300,7 @@
             "desc": "Официальная документация по Remnawave",
             "icon": "bi-journal-text",
             "url": "https://remna.st/docs/overview/introduction/",
-            "category": "wiki",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "wiki",
@@ -363,7 +363,7 @@
             "desc": "Страница подписок в стиле Material Design 3",
             "icon": "bi-github",
             "url": "https://github.com/legiz-ru/material-remnawave-subscription-page",
-            "category": "git",
+            "category": "remnawave",
             "pinned": false,
             "badges": [
                 "materialdesign",
@@ -404,6 +404,20 @@
             "pinned": false,
             "badges": [
                 "community"
+            ]
+        },
+        {
+            "id": 123,
+            "title": "Remnawave Bedolaga Bot | by Fr1ngg",
+            "desc": "Telegram бот для продажи подписок с мульти-платежными системами и кастомными подписками",
+            "icon": "bi-github",
+            "url": "https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot",
+            "category": "remnawave",
+            "pinned": false,
+            "badges": [
+                "telegram",
+                "bot",
+                "remnawave"
             ]
         }
     ],
@@ -509,13 +523,15 @@
         "wiki": "Wiki",
         "git": "GitHub",
         "contact": "Сообщества",
-        "monitoring": "Мониторинг"
+        "monitoring": "Мониторинг",
+        "remnawave": "Remnawave"
     },
     "categoryColors": {
         "contact": "#f59e0b",
         "git": "#6f42c1",
         "wiki": "#0ea5e9",
         "all": "var(--brand)",
-        "monitoring": "#d6336c"
+        "monitoring": "#d6336c",
+        "remnawave": "#3bc9db"
     }
 }
